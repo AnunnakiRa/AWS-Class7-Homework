@@ -34,7 +34,7 @@ echo "
 
 <br>
 
-<img src=https://images.pexels.com/photos/33968169/pexels-photo-33968169.jpeg alt=images.pexels.com>
+<img src=https://images.pexels.com/photos/33968169/pexels-photo-33968169.jpeg width="750" height="900" alt=images.pexels.com>
 <br>
 
 <p><b>Instance Name:</b> ip-192-168-4-145.ec2.internal </p>
